@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Lucas-Souza-Santos/Lucas-Souza-Santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Eu sou Lucas de Souza Santos
+* Moro em Recife
+* Sou estudante de engenharia de controle e automação 
+* Trabalho com meu pai vendendo produtos
+* Estou estudando java pela Digital innovation One em busca de uma vaga de emprego e hoje é minha prioridade 
+* Estou estudando programa pela recode
+* Estou estudando python com Curso em Vídeo(canal do youtube) e também na universidade na cadeira de inteligência artificial
 
-Here are some ideas to get you started:
+##  Minhas Redes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Skills
+
+
